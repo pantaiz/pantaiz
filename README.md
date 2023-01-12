@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pantaiz
+- 👋 Hi, I’m Ivan
 - 👀 I’m interested in Frontend
 - 🌱 I’m currently learning JS,TS,React
 - 💞️ I’m looking to collaborate on your company
