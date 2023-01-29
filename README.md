@@ -16,9 +16,9 @@
 <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" height="50px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" height="50px"></div>
 
-<div align="center"><img src="https://streak-stats.demolab.com?user=Pantaiz&theme=solarized-light&border_radius=10&date_format=j%20M%5B%20Y%5D"/></div>
+<div align="center"><img src="https://streak-stats.demolab.com?user=Pantaiz&&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D"/></div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pantaiz&layout=compact)](https://github.com/pantaiz/github-readme-stats"/></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pantaiz&theme=dark"/></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pantaiz&label=Profile%20views&color=0e75b6&style=flat" alt="pantaiz" /> </p>
 <!---
