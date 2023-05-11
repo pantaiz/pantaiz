@@ -10,6 +10,9 @@
 <div> </div>
 <div align="center" >
 <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" height="50px">
+ <img src="https://github.com/devicons/devicon/raw/master/icons/storybook/storybook-original.svg" height="50px">
+ 
+ <img src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg" height="50px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" height="50px">
 <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" height="50px">
 <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" height="50px">
